@@ -18,9 +18,7 @@
 
 class analyzeTable
 {
-    static $TABLE_CAPTION = '
-    <b>Human PlannerStat v1.0</b><br/>
-    <table width="1200" border="1" align="center" cellpadding="4" cellspacing="0">';
+    static $TABLE_CAPTION = '<table width="1200" border="1" align="center" cellpadding="4" cellspacing="0">';
     static $TABLE_TR = '<tr';
     static $TABLE_TD = '<td';
     
